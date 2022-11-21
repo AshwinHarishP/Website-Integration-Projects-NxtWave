@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/*First Page*/
+.First-page-card {
+    padding: 20px;
+}
+
+.First-page-image {
+    height: 240px;
+    width: 340px;
+    margin-left: 160px;
+
+}
+
+.First-page-heading {
+    text-align: center;
+    font-size: 28px;
+    font-family: "Bree Serif";
+    color: #183b56;
+}
+
+.First-page-paragraph {
+    text-align: center;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    color: #616e7c;
+}
+
+.Bottom-card-image {
+    height: 120px;
+
+    padding: 6px;
+}
+
+/* Technology Page*/
+.Technology-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 150vh;
+    background-size: cover;
+
+}
+
+.Technology-Card {
+
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 30px;
+}
+
+.Technology-heading {
+    margin: 10px;
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.Technology-paragraph {
+    margin: 15px;
+    color: #323f4b;
+    font-family: "Roboto";
+
+}
+
+.Technology-common {
+    height: 40px;
+    width: 180px;
+    border-radius: 10px;
+    border-color: #d7dfe9;
+    border-width: 1px;
+    margin: 5px;
+}
+
+.Technology-learn-more {
+    background-color: #ffffff;
+}
+
+.Technology-save-draft {
+    background-color: #5650A9;
+    text-align: center;
+}
+
+/* NEWS Page*/
+.News-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 124vh;
+    background-size: cover;
+}
+
+.News-Card {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+
+.News-side-heading {
+    padding: 5px;
+    font-size: 13px;
+    color: #7b8794;
+    font-family: "roboto";
+}
+
+.News-main-heading {
+    color: #323f4b;
+    font-size: 23px;
+    font-family: "roboto";
+    padding: 5px;
+}
+
+.News-paragraph {
+    color: #7b8794;
+    padding: 5px;
+}
+
+.News-button {
+    font-size: 14px;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    color: #ffffff;
+    background-color: #323F4B;
+}
+
+/*Diwali Page*/
+.Diwali-Top-background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 35vh;
+    padding: 20px;
+
+}
+
+.Diwali-Top-section-heading {
+    color: white;
+    font-family: "Comic Sans MS";
+    font-size: 24px;
+    font-style: italic;
+    width: 200px;
+}
+
+.Diwali-Bottom-section {
+    background-color: #e6f6ff;
+    height: 100vh;
+    text-align: center;
+}
+
+.Diwali-card-image {
+    height: 60px;
+    width: 60px;
+}
+
+.Diwali-card-item {
+    margin: 15px;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.Diwali-card-heading {
+    padding: 10px;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.Diwali-card-paragraph {
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: black;
+}
+/*Food Page*/
+.Diwali-Food-background {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    height: 100vh;
+    background-size: cover;
+    font-family: "bree serif";
+}
+
+.Diwali-Food-cover {
+    color: #323f4b;
+    border-style: none;
+    padding: 45px;
+    background-color: #f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 10px;
+}
+
+.Diwali-Food-Button {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 140px;
+}
+
+/*TEMP*/
+.Diwali-Temp {
+    text-align: center;
+}
