@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.First-page-outer-background {
+    background-color: #03174c;
+}
+
+.First-page-outer-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    text-align: center;
+    height: 55vh;
+}
+
+.First-page-outer-heading {
+    margin-right: 55px;
+    margin-top: 90px;
+    font-size: 28px;
+}
+
+.First-page-outer-common {
+
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.First-page-outer-paragraph {
+    margin-right: 30px;
+}
+
+.First-page-bottom-section-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 37vh;
+    margin: 25px;
+    margin-top: 35px;
+
+}
+
+.First-page-bottom-section-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 34px;
+    text-align: center;
+}
+
+.First-page-bottom-section-paragraph {
+    color: #ffffff;
+    font-family: "roboto";
+    font-weight: 500;
+    text-align: center;
+}
+
+.First-page-button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 15px;
+    height: 35px;
+    width: 120px;
+}
+
+.Second-page-img {
+    height: 280px;
+    width: 450px;
+}
+
+.Second-page-top-section-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+
+}
+
+.Second-page-top-section-paragraph {
+    color: #98a1bd;
+
+    font-size: 14px;
+    font-family: "bree Serif";
+}
+
+.Second-page-top-section-heading-related {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    font-size: 18px;
+}
+
+.Second-page-padding {
+    padding: 20px;
+}
+
+.Second-page-bottom-section-img-one {
+    height: 80px;
+    width: 140px;
+}
+
+.Second-page-bottom-section-img-two {
+    height: 80px;
+    width: 140px;
+    margin-left: 10px;
+}
+
+.Second-page-bottom-section-img-heading-one {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    font-size: 16px;
+}
+
+.Second-page-bottom-section-img-heading-two {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    font-size: 16px;
+    margin-left: 60px;
+}
+
+.Second-page-top-section-paragraph1-img {
+    color: #98a1bd;
+    font-weight: bold;
+    font-size: 13.5px;
+    margin-left: 2px;
+    font-family: "bree Serif";
+}
+
+.Second-page-top-section-paragraph2-img {
+    color: #98a1bd;
+    font-weight: bold;
+    font-size: 13.5px;
+    margin-left: 17px;
+    font-family: "bree Serif";
+}
+
+.Second-page-button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 20px;
+    height: 35px;
+    width: 110px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
