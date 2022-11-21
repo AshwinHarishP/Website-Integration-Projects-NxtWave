@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.First-page-background {
+    background-color: #1b1b1b;
+}
+
+.First-page-heading {
+    padding: 20px;
+    margin-top: 0px;
+    color: #ffffff;
+    font-size: 29px;
+    font-family: "Bree Serif";
+}
+
+.First-page-top-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -18px;
+    margin-right: 25px;
+}
+
+.First-page-top-card-img {
+    height: 205px;
+    width: 153px;
+}
+
+.First-page-top-card-heading {
+    font-size: 20px;
+    margin: 18px;
+    color: #183b56;
+}
+
+.First-page-top-card-paragraph1 {
+    margin-left: 18px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.First-page-top-card-paragraph2 {
+    margin-left: 18px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 0px;
+    color: #183b56;
+}
+
+.First-page-top-card-button {
+    margin-left: 18px;
+}
+
+.First-page-middle-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.First-page-middle-card {
+    margin: 20px;
+    margin-top: 10px;
+}
+
+.First-page-second-image {
+    height: 140px;
+}
+
+.First-page-middle-card-heading {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+.First-page-middle-card-paragraph {
+    color: #e4e7eb;
+    font-size: 12px;
+    font-family: "Bree Serif";
+    margin-left: 10px;
+}
+
+.First-page-middle-card-button {
+    margin-left: 10px;
+}
+
+.First-page-bottom-card {
+    margin: 20px;
+    margin-top: -10px;
+}
+
+.Second-page-card {
+    padding: 34px;
+    margin-left: 110px;
+
+}
+
+.Second-page-image {
+    height: 260px;
+    width: 170px;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.Second-page-heading {
+    font-family: "bree serif";
+    font-size: 27px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: -5px;
+}
+
+.Second-page-paragraph1 {
+    text-align: center;
+    color: #9aa5b1;
+    font-weight: 200;
+    font-family: "bree serif";
+    font-size: 13px;
+}
+
+.Second-page-paragraph2 {
+    color: #ffffff;
+    font-weight: 200;
+    font-family: "Bree serif";
+    padding: 20px;
+    font-size: 13px;
+    margin-top: -20px;
+
+}
+
+.Second-page-buttton {
+    column-gap: 5px;
+    ;
+}
+
+.TEMP {
+    text-align: center;
+}
