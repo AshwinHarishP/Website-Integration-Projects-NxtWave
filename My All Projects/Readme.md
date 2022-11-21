@@ -4,6 +4,33 @@ My projects are displayed in dashboard so by clicking the project icon,it will d
 
 
 
+
+
+
+
+
+
+                                                               
+
+# CSS Colors used:
+## Text color Hex Code values:
+### Heading: 
+* #183b56
+### Sub-Heading:
+* #616e7c
+# CSS Font families used:
+* Bree Serif
+
+# Resources:
+### Logo Image:
+
+![software-developer-img](https://user-images.githubusercontent.com/99186533/203013296-af4d0c7e-ff9d-4e18-a5a4-b3abde3bc79f.png)
+
+
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/software-developer-img.png
+
+                   
+                                                           
                                                                Preview
 ## Project-1 Image:
 
