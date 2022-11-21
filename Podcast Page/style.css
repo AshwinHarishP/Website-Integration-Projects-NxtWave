@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Side-heading {
+    margin: 10px;
+    font-size: 17px;
+    font-family: "Roboto";
+
+}
+
+.Podcast-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    width: 100vh;
+    height: 290px;
+}
+
+.Podcast {
+    padding: 20px;
+    color: #ffffff;
+    font-size: 32px;
+    font-family: "Roboto";
+}
+
+.Bottom-card-first-card {
+    margin-top: -14px;
+    padding: 23px;
+}
+
+.Bottom-card-first-card-container {
+    margin: 30px;
+}
+
+.bottom-card-image-common {
+    height: 120px;
+}
+
+.Bottom-card-first-card-container-heading {
+    margin-top: 6px;
+    text-align: center;
+    color: #151765;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.Bottom-card-first-card-container-paragraph {
+    color: #687F8F;
+    text-align: center;
+    margin-top: -2px;
+    font-weight: 300;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.Bottom-card-second-card {
+    margin-top: -80px;
+    padding: 23px;
+}
+
+.button {
+    background-color: #151765;
+    border-radius: 15px;
+    color: #ffffff;
+    height: 30px;
+    width: 80px;
+    margin: 15px;
+}
+
+.Next-button {
+    text-align: right;
+    margin-top: -55px;
+}
+
+.Back-button {
+
+    text-align: left;
+}
+
+.Second-page-top-card {
+    background-color: #151765;
+}
+
+.Second-page-top-card-inner {
+    padding: 20px;
+}
+
+.Second-page-top-card-inner-image {
+    margin-top: 13px;
+    height: 120px;
+}
+
+.Second-page-top-card-inner-paragraph-1 {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: 100;
+}
+
+.Second-page-top-card-inner-heading {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 24px;
+    margin-top: -20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Second-page-top-card-inner-paragraph-2 {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: 100;
+    margin-top: -18px;
+    margin-bottom: -3px;
+}
+
+.Second-page-bottom-card-image {
+    margin-top: 13px;
+    height: 120px;
+    margin: 20px;
+}
+
+.Second-page-bottom-card-heading {
+    margin-top: 24px;
+    margin-left: -10px;
+    color: #151765;
+    font-size: 17px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Second-page-bottom-card-paragraph-1 {
+    margin-top: 0px;
+    margin-left: -10px;
+    color: #5a7184;
+    font-size: 15.5px;
+    font-family: "Roboto";
+}
+
+.Second-page-bottom-card-paragraph-2 {
+    margin-top: 0px;
+    margin-left: -10px;
+    color: #5a7184;
+    font-size: 11px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
